@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name_EN">PowerGuard</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email_EN">Email</string>
+    <string name="prompt_password_EN">Password (optional)</string>
+    <string name="action_sign_in_EN">Sign in or register</string>
+    <string name="action_sign_in_short_EN">Sign in</string>
+    <string name="error_invalid_email_EN">This email address is invalid</string>
+    <string name="error_invalid_password_EN">This password is too short</string>
+    <string name="error_incorrect_password_EN">This password is incorrect</string>
+    <string name="error_field_required_EN">This field is required</string>
+    <string name="permission_rationale_EN">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
